@@ -5,8 +5,7 @@
 <h2>Description</h2>
 <b>This is a SOC Simulator designed by Steven to help aspiring SOC Analysts gain hands-on practical experience in just 30 days.<br/>
   
-<b>I took this challenge to get solid skills related to Security Operations that involve not only tools used in a real SOC, but also to learn a methodology of 
-  how to detect and investigate alerts in a SIEM via dashboards. I set up a lab environment in the cloud.<br/>
+<b>After I have completed this challenge, I have gained confidence and solid skills to put to work in a SOC environment, and also acquired a methodology to detect and investigate alerts in a SIEM via dashboards.<br/>
 
 <h2>Environments Used </h2>
 
