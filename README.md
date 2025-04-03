@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-A SOC Simulator designed to help aspiring SOC Analysts like you gain hands-on practical experience in just 30 days
+A SOC Simulator designed to help aspiring SOC Analysts gain hands-on practical experience in just 30 days
 <br />
 
 
