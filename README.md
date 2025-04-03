@@ -3,12 +3,12 @@
 
 
 <h2>Description</h2>
-A SOC Simulator designed to help aspiring SOC Analysts gain hands-on practical experience in just 30 days
-<br />
-
-MYDFIR SOC ANALYST CHALLENGE by Steven, founder of MyDFIR (YouTube channel), who has a long experience working and focusing within the security operations domain, and he is a very well-known DFIR consultant.
-He created this challenge due to the lack of practical experience that a lot of entry-level SOC candidates are missing. I took this challenge to get solid skills related to Security Operations that involve not only tools used in a real SOC, but also to learn a methodology of how to detect and investigate alerts in a SIEM via dashboards. I set up a lab environment in the cloud.  
-
+<b>This is a SOC Simulator designed to help aspiring SOC Analysts gain hands-on practical experience in just 30 days.
+  Steven, founder of MyDFIR (YouTube channel), who has a long experience working and focusing within the security operations domain, is a very well-known DFIR consultant.
+  He created this challenge due to the lack of practical experience that a lot of entry-level SOC candidates are missing. 
+  I took this challenge to get solid skills related to Security Operations that involve not only tools used in a real SOC, but also to learn a methodology of 
+  how to detect and investigate alerts in a SIEM via dashboards. I set up a lab environment in the cloud.  
+<br/>
 
 <h2>Environments Used </h2>
 
