@@ -1,4 +1,4 @@
-# SOC-Simulator
+# SOC-Simulator with ELK
 30-Day SOC Analyst Challenge | Gain Practical Experience 
 
 
